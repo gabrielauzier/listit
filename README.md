@@ -3,7 +3,7 @@
 ## 🔎 About
 
 This project is an android app made in Android Studio that allows to create tasks based on the framework Kanban,
-so you can change tasks status to help with the organization. It was made for Kotlin fundamentals practing and learning to handle with new forms
+so you can change tasks status to help with the organization. It was made for Kotlin fundamentals practicing and learning to handle with new forms
 of screens creation using Fragments and passing data properly with the Navigation Component. 
 
 
